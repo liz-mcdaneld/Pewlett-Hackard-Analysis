@@ -1,4 +1,5 @@
 -- Creating tables for PH-EmployeeDB
+
 -- Create the departments table
 CREATE TABLE departments (
      dept_no VARCHAR(4) NOT NULL,
